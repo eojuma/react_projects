@@ -5,7 +5,7 @@ A simple and clean collection of React applications. Each folder in this reposit
 ## 🛠️ Tech Stack
 * **Framework:** React.js (Vite)
 * **Styling:** CSS / Tailwind CSS
-* **Language:** JavaScript / TypeScript
+* **Language:** JavaScript
 
 ## 🏃 Getting Started
 
