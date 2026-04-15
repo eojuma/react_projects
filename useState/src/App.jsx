@@ -1,9 +1,9 @@
 
 import { useState } from "react";
-import Header from "./components/Header.jsx";
-import Counter from "./components/Counter.jsx";
-import Controls from "./components/Controls.jsx";
-import Stats from "./components/Stats.jsx";
+import Header from "./components/Header";
+import Counter from "./components/Counter";
+import Controls from "./components/Controls";
+import Stats from "./components/Stats";
 function App() {
 const [count, setCount] = useState(0)
 return (
